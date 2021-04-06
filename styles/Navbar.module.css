@@ -1,0 +1,22 @@
+.navbar {
+  height: 6vh;
+  background-color: #2c3539;
+  color: white;
+}
+
+.logo {
+  height: 4vh;
+  margin: 1vh;
+}
+
+.item {
+  font-size: 3vh;
+  position: relative;
+  top: -1.8vh;
+  padding: 0vh 2vh 0.7vh 2vh;
+  transition: 50ms;
+}
+
+.item:hover {
+  border-bottom: 5px solid #fe7316;
+}

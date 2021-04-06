@@ -1,0 +1,9 @@
+.postBox {
+  margin: 0 25%;
+  position: absolute;
+  bottom: 0;
+  width: 50%;
+  top: 32%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
